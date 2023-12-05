@@ -1,0 +1,6 @@
+[submodule "monitoreo-de-temperatura-Server"]
+	path = monitoreo-de-temperatura-Server
+	url = https://github.com/Hobb211/monitoreo-de-temperatura-Server.git
+[submodule "monitoreo-de-temperatura-Web"]
+	path = monitoreo-de-temperatura-Web
+	url = https://github.com/Hobb211/monitoreo-de-temperatura-Web.git
